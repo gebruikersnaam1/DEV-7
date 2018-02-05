@@ -51,3 +51,16 @@ sprintf("4 in evens %s", 4%in% evens)
 
 rep(x=2, times=5, each=2)
 rep(x=c(1,2,3), times=5, each=2)
+
+#combine strings
+str = paste("Tim","Euromast", sep=" ") 
+str
+#get a certain amount of characters
+substr(x=str2, start=0,stop=3) #get three
+#replace
+sub(pattern = "Tim", replacement = "Tommy", x= str2)
+#Replace all words for..
+gsub(pattern = "Egg", replacement = "chicken", x="Egg Egg")
+#?
+strVect = strsplit("A dog ran fast", " ")
+strVect
