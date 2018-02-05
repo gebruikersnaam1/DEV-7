@@ -1,8 +1,7 @@
 #some do it this way my.num is possible.
-# But they have to start with a number
+#But variables have to start with a letter
 #you can also use <- instead of =, as example mynum <- 5
-#var are dynamic and can be int,string, etc.
-#
+#var are dynamic and can be int,string, etc., and change over time
 mynum = 316 
 print(mynum)
 print(class(mynum)) #numeric

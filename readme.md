@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Hogeschool Rotterdam (HR) has provide slides and study material to understand and develop in the programming language R.
-* The folder "[basic](Practice/Basic)" is fully based on the tutorial of the legendary [Derek Banas](https://www.youtube.com/user/derekbanas)
+* The folder "[basic](Practice/Basic)" is fully based on the tutorial of the legendary YouTuber [Derek Banas](https://www.youtube.com/user/derekbanas).

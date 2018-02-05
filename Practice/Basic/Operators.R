@@ -12,7 +12,7 @@ cat("TRUE && FALSE = ", T && F, "\n")
 cat("TRUE || FALSE = ", T || F, "\n")
 cat("!TRUE  ", !T, "\n")
 
-#decision make
+#decision making
 age = 33
 if(age >= 30){
 print("A") #it isn't python! and this is proof

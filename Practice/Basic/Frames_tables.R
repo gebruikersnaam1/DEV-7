@@ -20,4 +20,4 @@ studentData
 
 #check if money is own
 owesMoney = studentData[studentData$debt > 0,]
-owesMoney #no eibert! 
+owesMoney #no eibert! because he has no debt 
